@@ -1,0 +1,3 @@
+készíts egy acc.txt fájlt ide és írd bele az e-mailt és a jelszót space-el elválasztva egy sorba 
+példa:
+asd@asd.com password1234
